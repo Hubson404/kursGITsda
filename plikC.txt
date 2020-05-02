@@ -1,1 +1,1 @@
-Zmieniona zawartosc pliku C.
+Zmieniona zawartosc pliku C na branchu test.
